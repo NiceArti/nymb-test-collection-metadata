@@ -1,8 +1,8 @@
 {
 	"name": "Nymb Item",
 	"description": "The Nymb Timekeeper represents your mastery over time, granting you exclusive privileges and bonuses. In a world where time is the ultimate resource, this NFT proves you value every second. It’s your key to hidden opportunities and advantages, available only to those who truly understand the power of time. Time runs out for everyone — but not for you.",
-	"image": "",
-	"animation_url": "",
-	"content_url": "",
+	"image": "https://github.com/NiceArti/nymb-test-collection-metadata/blob/main/0/item-logo.png?raw=true",
+	"animation_url": "https://github.com/NiceArti/nymb-test-collection-metadata/blob/main/0/item.mp4?raw=true",
+	"content_url": "https://github.com/NiceArti/nymb-test-collection-metadata/blob/main/0/item.mp4?raw=true",
 	"content_type": "video/mp4"
 }
